@@ -110,3 +110,23 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# Student Management System
+
+A simple Python-based Student Management System.
+
+## Features
+- Add Student
+- View Students
+- Search Student
+- Update Student
+- Delete Student
+- Data stored in JSON file
+
+## Requirements
+- Python 3.x
+
+## Run
+
+python main.py
